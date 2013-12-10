@@ -2,8 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace WAoop
-{
+namespace WA
     static class Program
     {
         /// <summary>
