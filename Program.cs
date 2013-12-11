@@ -7,9 +7,7 @@ namespace WA
     {
         /// <summary>
         /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        /// zmena
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
