@@ -7,7 +7,7 @@ namespace WA
     {
         /// <summary>
         /// The main entry point for the application.
-        /// zmena
+        /// ahoj zmena
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
